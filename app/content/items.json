@@ -257,7 +257,8 @@
     },
     {
         "order": 145,
-        "covervisible" : "not-visible",
+        "covervisible" : "visible",
+        "clickable" : "clickable",
         "heading": "infographic: 6 phases of",  
         "bigTitle": "Learning Networks", 
         "type" : "approach partners communities reach impact team contact",
